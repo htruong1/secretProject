@@ -1,0 +1,101 @@
+.resumeContainer {
+    height: 1675px;
+    width: 1100px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width:1px;
+    background-color: #F1F1F1;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+.resumeHeader {
+    height: 450px;
+    padding-left: 120px;
+    padding-top: 15px;
+}
+
+.headContainer {
+    height: 400px;
+}
+
+.header {
+    color:#007fff;
+    margin-left: 10px;
+}
+
+.jobTitle {
+    color: lightslategray;
+    margin-top: -15px;
+    margin-left: 12px;
+}
+
+.headShot {
+    height: 205px;
+    width: 195px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #007fff;
+}
+
+.contactContainer {
+    height: 300px;
+    width: 500px;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.buttonMargins {
+    margin-left: 50px;
+}
+
+.horizonRow {
+    display: flex;
+}
+
+.aboutContainer {
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.aboutDescription {
+    color: lightslategray;
+    font-size: 16px;
+}
+
+.skillsContainer {
+    height: 440px;
+    width: 800px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.skillsSubContainer {
+    height: 410px;
+    width: 380px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skillsSubHeader {
+    color: lightslategray;
+}
+
+.historyContainer {
+    height: 410px;
+    width: 380px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
